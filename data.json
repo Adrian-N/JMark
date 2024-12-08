@@ -1,0 +1,205 @@
+[
+{
+	"ID":"1",	
+	"URL":"https://bios-pw.org/",
+	"title":"BIOS Pass Recovery",
+	"info":"BIOS Password Recovery for Laptops",
+	"category":"helpdesk"
+},
+{
+	"ID":"2",	
+	"URL":"https://stats.libretexts.org/Courses/Oxnard_College/Statistics_Calculators_for_Math_105/03%3A_Mean_and_Standard_Deviation_from_a_Frequency_Table",
+	"title":"Mean Frequency Calculator",
+	"info":"Mean and Standard Deviation from a Frequency Table",
+	"category":"misc"
+},
+{
+	"ID":"3",	
+	"URL":"https://www.bbc.co.uk/programmes/articles/2RCCnbCBgCyJ9w1GHx9G84s/missing-delivery-items",
+	"title":"Missing Delivery",
+	"info":"UNDERSTANDING YOUR RIGHTS WHEN ITEMS ARE MISSING FROM YOUR PARCELS",
+	"category":"misc"
+},
+{
+	"ID":"4",	
+	"URL":"https://codepen.io/nxworld/pen/OyRrGy",
+	"title":"CodePen",
+	"info":"Fullscreen scroll down buttons",
+	"category":"Software Development"
+},
+{
+	"ID":"5",	
+	"URL":"https://www.ultrabookreview.com/20942-calibrate-laptops-battery-fix-inaccurate-wear-info/",
+	"title":"Laptop’s Battery Fix",
+	"info":"How to calibrate your laptop’s battery and fix inaccurate wear info ",
+	"category":"helpdesk"
+},
+{
+	"ID":"6",	
+	"URL":"https://stackoverflow.com/questions/3697748/fastest-way-to-serve-a-file-using-php",
+	"title":"PHP Download",
+	"info":"stackoverflow - Fastest Way to Serve a File Using PHP",
+	"category":"Software Development"
+},
+{
+	"ID":"7",	
+	"URL":"https://www.jotform.com/",
+	"title":"Online Forms",
+	"info":"Powerful forms that use conditional logic, accept payments, generate reports, and automate workflows.",
+	"category":"Tools"
+},
+{
+	"ID":"8",	
+	"URL":"https://codepen.io/chriscoyier/pen/VjZmGj",
+	"title":"CodePen",
+	"info":"Sticky Footer with Negative Margin",
+	"category":"Software Development"
+},
+{
+	"ID":"9",	
+	"URL":"https://axiom.ai/",
+	"title":"Browser Automation",
+	"info":"no-code browser automation",
+	"category":"tool"
+},
+{
+	"ID":"10",	
+	"URL":"https://chromewebstore.google.com/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd?hl=en",
+	"title":"Selenium IDE",
+	"info":"Recording and playing back tests on Firefox and Chrome.",
+	"category":"tool"
+},
+{
+	"ID":"11",	
+	"URL":"https://codular.com",
+	"title":"Starting with Node and Web Sockets",
+	"info":"Web Development Tutorials and Blog",
+	"category":"Software Development"
+},
+{
+	"ID":"12",	
+	"URL":"https://code.tutsplus.com/perfect-workflow-in-sublime-text-2--CRS-46c",
+	"title":"Sublime Text 2 Tutorial",
+	"info":"Sublime Text with advanced tips, techniques and modifications",
+	"category":"Software Development"
+},
+{
+	"ID":"13",	
+	"URL":"https://wave.webaim.org/",
+	"title":"WAVE",
+	"info":"WAVE Web Accessibility Evaluation Tools",
+	"category":"Software Development"
+},
+{
+	"ID":"14",	
+	"URL":"https://en.wikipedia.org/wiki/Site_reliability_engineering",
+	"title":"Wikipedia",
+	"info":"Site Reliability Engineering (SRE)",
+	"category":"Software Development"
+},
+{
+	"ID":"15",	
+	"URL":"https://www.postman.com/",
+	"title":"Postman Desktop App",
+	"info":"API debugging. Prototype, document, test, and demo all your APIs in one place. ",
+	"category":"Software Development"
+},
+{
+	"ID":"16",	
+	"URL":"https://sankeymatic.com/",
+	"title":"SankeyMATIC",
+	"info":"Make beautiful flow diagrams",
+	"category":"tool"
+},
+{
+	"ID":"17",	
+	"URL":"https://release.com/blog/how-to-edit-a-file-in-a-docker-container",
+	"title":"Docker",
+	"info":"How to edit a file in a Docker container",
+	"category":"Software Development"
+},
+{
+	"ID":"18",	
+	"URL":"https://www.reddit.com/r/Supplements/comments/5lrqki/the_most_comprehensive_vitamin_d_guide_youll_ever/?rdt=36736",
+	"title":"Reddit",
+	"info":"Comprehensive Vitamin D guide.",
+	"category":"health"
+},
+{
+	"ID":"19",	
+	"URL":"https://www.cleanyourcar.co.uk/carpro-iron-x",
+	"title":"Car Detailing Product",
+	"info":"CarPro - Iron X",
+	"category":"car"
+},
+{
+	"ID":"20",	
+	"URL":"https://imeidata.net/",
+	"title":"IMEI data",
+	"info":"ensure your IMEI number is unlocked effortlessly with the best IMEI checker",
+	"category":"mobile"
+},
+{
+	"ID":"21",	
+	"URL":"https://ui.dev/amiresponsive",
+	"title":"Website Test",
+	"info":"screen shots of the various device breakpoints for responsive design",
+	"category":"testing"
+},
+{
+	"ID":"22",	
+	"URL":"https://www.wufoo.com/html5/",
+	"title":"HTML5 Forms",
+	"info":"Let's explore the different features of HTML5 forms.",
+	"category":"Software Development"
+},
+{
+	"ID":"23",	
+	"URL":"https://github.com/EbookFoundation/free-programming-books",
+	"title":"eBooks",
+	"info":"Free Programming Books",
+	"category":"education"
+},
+{
+	"ID":"24",	
+	"URL":"http://www.rleonardi.com/interactive-resume/",
+	"title":"Resume Example",
+	"info":"HTML5 Interactive Resume",
+	"category":"Software Development"
+},
+{
+	"ID":"25",	
+	"URL":"https://www.text-image.com/",
+	"title":"Text Image",
+	"info":"easily generate cool text-images from almost any picture ",
+	"category":"tool"
+},
+{
+	"ID":"26",	
+	"URL":"https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20",
+	"title":"Text Tool",
+	"info":"Convert text into fancy text:",
+	"category":"tool"
+},
+{
+	"ID":"27",	
+	"URL":"https://www.phind.com/",
+	"title":"phind",
+	"info":"AI-powered search engine designed specifically for developers and professionals. ",
+	"category":"tool"
+},
+{
+	"ID":"28",	
+	"URL":"https://stackedit.io/",
+	"title":"StackEdit",
+	"info":"MD Markdown Editor",
+	"category":"tool"
+},
+{
+	"ID":"29",	
+	"URL":"https://chatgpt.com/auth/login",
+	"title":"ChatGPT",
+	"info":"ChatGPT login page.",
+	"category":"tool"
+}
+]																																																																	

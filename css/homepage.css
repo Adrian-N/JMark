@@ -1,0 +1,65 @@
+/**
+ * Project: JMark
+ * Script: CSS for homepage.
+ * Author: adriannowak.net
+ * 
+ **/
+body {
+  background: #52527a; }
+
+a {
+  all: unset;
+  cursor: pointer; }
+
+.box {
+  margin-top: 20px;
+  background: #fff;
+  overflow: hidden;
+  min-height: 136px; }
+
+.bookmark {
+  overflow: hidden;
+  margin: 20px auto;
+  padding: 10px;
+  width: 90%;
+  background-color: #007bff;
+  border-color: #007bff;
+  color: #fff;
+  border: 1px solid transparent;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+  border-left-color: transparent;
+  box-shadow: none; }
+  .bookmark:hover {
+    box-shadow: inset 0 3px 6px #54a7ff, 0 4px 6px rgba(0, 0, 0, 0.45);
+    transition: 0.2s; }
+  .bookmark .info {
+    margin-bottom: 0;
+    padding-bottom: 0; }
+  .bookmark .link {
+    color: #ccc;
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0; }
+
+#search {
+  width: 60%;
+  margin: 20px 0 20px 5px;
+  padding: 5px;
+  text-align: center;
+  font-size: 15px;
+  display: block; }
+
+.searchBox {
+  width: 90%;
+  margin: auto;
+  overflow: hidden; }
+  .searchBox input {
+    float: left; }
+  .searchBox button {
+    margin: 19px 0 20px 20px;
+    float: right; }
+
+/*# sourceMappingURL=homepage.css.map */
