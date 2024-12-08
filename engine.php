@@ -15,7 +15,7 @@
 	//JSON data
 	$file = "data.json";
 	//Auth Code
-	$auth = "devops";
+	$auth = "test";
 
 //engine - **DO NOT EDIT BELOW**
 $action = "0";
@@ -95,8 +95,7 @@ if (file_exists($file)) {
 		<textarea class="form-control" style="width:100%;height:500px;" name="JSONdata"><?php print_r ($json);?></textarea>
 		<p style="margin-top:20px;">Quick Copy & Paste:</p>
 <pre><code>
-{
-	"ID":"",	
+{	
 	"URL":"",
 	"title":"",
 	"info":"",
