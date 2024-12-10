@@ -25,7 +25,7 @@ JMark is a lightweight, self-hosted bookmark management web application. It allo
     
 2.  Edit the `engine.php` file and set your desired authorization code:
         
-        $auth = "devops";
+        $auth = "test";
 
 3.   Ensure the PHP has write permissions to the JSON file.
 
